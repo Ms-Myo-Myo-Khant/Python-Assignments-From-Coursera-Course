@@ -1,0 +1,14 @@
+hi this is myo myo khant
+how are you
+
+I am fine and you?
+I am good thank you.
+a file handle open for rad can be treated as  a sequence of strings where each line in the file is a string in the sequence.
+we  can use the for statement to iterate through a sequence
+remember-a sequence is an ordered set
+so that just says treat a file handle as a sequence of lines.
+processing file
+coursera.org/learn/pytho-data/lecture/h0aMz/7-2-processing-files
+Learning Management System
+University of Information Technology
+7.2 -Processing Files -University of infromation Technology
